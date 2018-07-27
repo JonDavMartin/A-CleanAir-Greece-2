@@ -1,5 +1,6 @@
 # Welcome!
 In this Readme file you find all the necessary information about Smake it free.
+Hello
 
 ## What are we doing?  
 1.	We’re **collecting** information about Greek restaurants, coffee shops and bars regarding the level of smoking tobacco inside.
